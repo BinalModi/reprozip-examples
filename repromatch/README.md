@@ -9,7 +9,7 @@ ReproMatch
 ReproZip Package
 ----------------
 
-The ReproZip package is available [here](https://nyu.box.com/s/zmjo0csskip4s3qfpmwn7lcowkyh79v7) (58 MB).
+The ReproZip package is available [here](https://osf.io/scnmb/) (109 MB).
 
 How to Reproduce
 ----------------
